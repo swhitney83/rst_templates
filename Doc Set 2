@@ -1,0 +1,54 @@
+
+
+######################
+Level 1 - Main Title
+######################
+
+Intro text
+
+********
+Level 2
+********
+
+Section text
+
+********
+Level 2
+********
+
+Section text
+
+=======
+Lists
+=======
+
+Lists should always start with an introductory sentance.
+
+#. Step one.
+
+   Does the text always need to go here?
+
+#. Step two. Or should it go here.
+
+#. Step three.
+
+    I don't think my edits will work...
+=======
+Table
+=======
+
+I liked the table that I found in that RST Documentation link better.
+
+.. list-table::
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+   * - Row 3, column 1
+     - Row 3, column 2
+     - Row 3, column 3
