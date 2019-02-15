@@ -1,0 +1,41 @@
+######################
+Part III
+######################
+
+Other parts of the assignment.
+
+********
+Website
+********
+
+`Target Website <https://www.target.com/>`_
+
+********
+Substitution
+********
+
+.. |TTTW| replace:: Tools and Technologies for Technical Writers
+
+"The name of this class is |TTTW|".
+
+=======
+Command
+=======
+
+I'm not sure what you want edited here.
+
+.. only:: Administrators
+
+  This paragraph will be shown only in the Administrator's Guide.
+
+.. only:: End Users
+
+  This paragraph will be shown only in the User's Guide.
+  
+=======
+Stuff
+=======
+
+.. note:: I like to add notes to my procedures.
+
+.. caution:: Please read the procedure.
