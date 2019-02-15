@@ -11,14 +11,13 @@ Level 2
 ********
 
 .. code-block:: HTML
-
-  <html>
+<html>
      <head/>
      <body>
-
-     </body>
+<!-- HTML Codes by Quackit.com -->
+<marquee style="z-index:2;position:absolute;left:91;top:3;font-family:Cursive;font-size:14pt;color:1a07f8;height:445;"scrollamount="7" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:267;top:51;font-family:Cursive;font-size:14pt;color:1a07f8;height:37;"scrollamount="3" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:102;top:31;font-family:Cursive;font-size:14pt;color:1a07f8;height:116;"scrollamount="1" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:170;top:20;font-family:Cursive;font-size:14pt;color:1a07f8;height:103;"scrollamount="2" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:69;top:32;font-family:Cursive;font-size:14pt;color:1a07f8;height:490;"scrollamount="4" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:294;top:53;font-family:Cursive;font-size:14pt;color:1a07f8;height:453;"scrollamount="6" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:191;top:70;font-family:Cursive;font-size:14pt;color:1a07f8;height:99;"scrollamount="3" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:16;top:83;font-family:Cursive;font-size:14pt;color:1a07f8;height:287;"scrollamount="7" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:299;top:32;font-family:Cursive;font-size:14pt;color:1a07f8;height:32;"scrollamount="2" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:262;top:86;font-family:Cursive;font-size:14pt;color:1a07f8;height:117;"scrollamount="2" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:160;top:94;font-family:Cursive;font-size:14pt;color:1a07f8;height:384;"scrollamount="1" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;top:83;font-family:Cursive;font-size:14pt;color:1a07f8;height:101;"scrollamount="7" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:205;top:24;font-family:Cursive;font-size:14pt;color:1a07f8;height:36;"direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:148;top:34;font-family:Cursive;font-size:14pt;color:1a07f8;height:46;"scrollamount="7" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:314;top:101;font-family:Cursive;font-size:14pt;color:1a07f8;height:271;"scrollamount="5" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:62;top:8;font-family:Cursive;font-size:14pt;color:1a07f8;height:183;"direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:174;top:30;font-family:Cursive;font-size:14pt;color:1a07f8;height:361;"scrollamount="7" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:95;top:28;font-family:Cursive;font-size:14pt;color:1a07f8;height:218;"scrollamount="1" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:51;top:113;font-family:Cursive;font-size:14pt;color:1a07f8;height:391;"scrollamount="4" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:63;top:107;font-family:Cursive;font-size:14pt;color:1a07f8;height:131;"scrollamount="6" direction="down">Don't forget to Ask Susie!</marquee><marquee style="z-index:2;position:absolute;left:203;top:99;font-family:Cursive;font-size:14pt;color:1a07f8;height:158;"scrollamount="2" direction="down">Don't forget to Ask Susie!</marquee><span style="position:absolute;top:400px"></span>
+   </body>
   </html>
-
 ********
 Another Edit
 ********
@@ -57,12 +56,12 @@ I liked the table that I found in that RST Documentation link better.
    :widths: 25 25 50
    :header-rows: 1
 
-   * - Heading row 1, column 1
-     - Heading row 1, column 2
-     - Heading row 1, column 3
-   * - Row 2, column 1
-     - Row 2, column 2
-     - Row 2, column 3
-   * - Row 3, column 1
-     - Row 3, column 2
-     - Row 3, column 3
+   * - Name
+     - DOB
+     - Location
+   * - Susie
+     - 12/31/1988
+     - Stoneham
+   * - George
+     - 7/8/1970
+     - Medford
