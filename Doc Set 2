@@ -1,22 +1,36 @@
 
 
 ######################
-Level 1 - Main Title
+Main Title
 ######################
 
-Intro text
+Just stuff for the assignment. I'm not feeling creative today. 
 
 ********
 Level 2
 ********
 
-Section text
+.. code-block:: HTML
+
+  <html>
+     <head/>
+     <body>
+
+     </body>
+  </html>
 
 ********
-Level 2
+Another Edit
 ********
+To Do List:
 
-Section text
+* New ATM Procedures
+
+  ASAP!
+
+* Vendor Management Procedures
+
+* Foreign Currency Procedures
 
 =======
 Lists
